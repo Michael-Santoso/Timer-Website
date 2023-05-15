@@ -11,6 +11,7 @@ Installation:
 1. Clone the repository: git clone https://github.com/Michael-Santoso/Timer-Website.git
 2. Navigate to the project directory: cd Timer-Website
 3. Install dependencies: npm install
+4. Install bootstrap: npm install bootstrap
 
 Usage:
 1. Start the development server: npm run dev
